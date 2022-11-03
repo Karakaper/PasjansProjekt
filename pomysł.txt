@@ -1,3 +1,6 @@
+
+Dodać mechanikę gry
+
 Zrobić pasjansa
 
 Dodać tryb multiplayer oparty na walce 1vs1 z "systemem życia" 
