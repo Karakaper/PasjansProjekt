@@ -1,1 +1,10 @@
-1. Zrobić pasjansa
+Zrobić pasjansa
+
+Dodać tryb multiplayer oparty na walce 1vs1 z "systemem życia" 
+Walka będzie opierać się na szybkim układaniu talii, każde 
+ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
+(Tryb arena z punktami życia)
+(Tryb walki na czas)
+
+
+Dodać system rang.
