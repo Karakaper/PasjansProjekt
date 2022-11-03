@@ -8,3 +8,8 @@ ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
 
 
 Dodać system rang.
+
+Tryb kooperacji/coop 
+
+Dodać skiny do gry (skiny do talii,planszy)
+
