@@ -14,5 +14,6 @@ Dodać system rang.
 
 Tryb kooperacji/coop 
 
-Dodać skiny do gry (skiny do talii,planszy)
+Dodać skiny do gry (skiny do talii,planszy) -> Fifi
+
 
