@@ -12,7 +12,9 @@ ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
 (Tryb arena z punktami życia)
 (Tryb walki na czas)    -> Różal,Kacper,Hf,Halik
 
-Dodać system rang.  -> Kacper
+Dodać system rang.  -> Kacper, hf
+
+System walutowy     -> Hf, Kacper
 
 Tryb kooperacji/coop    -> Różal,Kacper,Hf,Halik
 
