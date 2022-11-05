@@ -4,13 +4,17 @@ Tworzenie dalszych pomysłów     -> Różal,Kacper,Hf,Halik,Fifi
 
 Dodać mechanikę gry     -> Różal,Kacper,Hf,Halik
 
-Zrobić pasjansa
+Dodać dźwięki do naszej gry -> KTX
+
+--- 1 Cel osiągniety "Zrobić podstawowego pasjansa"
 
 Dodać tryb multiplayer oparty na walce 1vs1 z "systemem życia" 
 Walka będzie opierać się na szybkim układaniu talii, każde 
 ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
 (Tryb arena z punktami życia)
 (Tryb walki na czas)    -> Różal,Kacper,Hf,Halik
+
+--- 2 Cel osiągniety "Dodać do pasjansa multiplayer
 
 Dodać system rang.  -> Kacper, hf
 
@@ -20,4 +24,4 @@ Tryb kooperacji/coop    -> Różal,Kacper,Hf,Halik
 
 Dodać skiny do gry (skiny do talii,planszy)     -> Fifi
 
-
+--- 3 Cel osiągniety "Gra gotowa do pełnego testowania"
