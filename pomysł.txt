@@ -14,7 +14,7 @@ ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
 (Tryb arena z punktami życia)
 (Tryb walki na czas)    -> Różal,Kacper,Hf,Halik
 
---- 2 Cel osiągniety "Dodać do pasjansa multiplayer
+--- 2 Cel osiągniety "Dodać do pasjansa multiplayer"
 
 Dodać system rang.  -> Kacper, hf
 
