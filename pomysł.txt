@@ -1,23 +1,15 @@
 Pomysły i przydział ról.
 
-Tworzenie dalszych pomysłów     -> Różal,Kacper,Hf,Halik,Fifi
+Tworzenie dalszych pomysłów     -> Różal,Kacper,Hf,Halik,Fifi,KTX
 
-Dodać mechanikę gry     -> Różal,Kacper,Hf,Halik
+Dodać dźwięki do naszej gry -> KTX
 
-Zrobić pasjansa
+--- 1 Cel osiągniety "Zrobić podstawowego pasjansa"
 
-Dodać tryb multiplayer oparty na walce 1vs1 z "systemem życia" 
-Walka będzie opierać się na szybkim układaniu talii, każde 
-ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
-(Tryb arena z punktami życia)
-(Tryb walki na czas)    -> Różal,Kacper,Hf,Halik
+Dodać więcej dźwięków -> KTX
 
-Dodać system rang.  -> Kacper, hf
+--- 2 Cel osiągniety "Dodać do pasjansa multiplayer"
 
-System walutowy     -> Hf, Kacper
+Dodać muzykę -> KTX 
 
-Tryb kooperacji/coop    -> Różal,Kacper,Hf,Halik
-
-Dodać skiny do gry (skiny do talii,planszy)     -> Fifi
-
-
+--- 3 Cel osiągniety "Gra gotowa do pełnego testowania"
