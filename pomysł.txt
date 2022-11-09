@@ -1,6 +1,6 @@
 Pomysły i przydział ról.
 
-Tworzenie dalszych pomysłów     -> Różal,Kacper,Hf,Halik,Fifi
+Tworzenie dalszych pomysłów     -> Różal,Kacper,Hf,Halik,Fifi,KTX
 
 Dodać mechanikę gry     -> Różal,Kacper,Hf,Halik
 
@@ -14,7 +14,11 @@ ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
 (Tryb arena z punktami życia)
 (Tryb walki na czas)    -> Różal,Kacper,Hf,Halik
 
+Dodać więcej dźwięków -> KTX
+
 --- 2 Cel osiągniety "Dodać do pasjansa multiplayer"
+
+Dodać muzykę -> KTX 
 
 Dodać system rang.  -> Kacper, hf
 
