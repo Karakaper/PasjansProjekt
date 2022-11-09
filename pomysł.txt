@@ -1,15 +1,11 @@
-Zrobić pasjansa
+Pomysły i przydział ról.
 
-Dodać tryb multiplayer oparty na walce 1vs1 z "systemem życia" 
-Walka będzie opierać się na szybkim układaniu talii, każde 
-ułożenie pojedyńczej talii zada przeciwnikowi obrażenia.
-(Tryb arena z punktami życia)
-(Tryb walki na czas)
+Tworzenie dalszych pomysłów     -> Różal,Kacper,Hf,Halik,Fifi
 
+--- 1 Cel osiągniety "Zrobić podstawowego pasjansa"
 
-Dodać system rang.
+--- 2 Cel osiągniety "Dodać do pasjansa multiplayer"
 
-Tryb kooperacji/coop 
+Dodać skiny do gry (skiny do talii,planszy)     -> Fifi
 
-Dodać skiny do gry (skiny do talii,planszy)
-
+--- 3 Cel osiągniety "Gra gotowa do pełnego testowania"
